@@ -6,3 +6,6 @@ Các tính năng của chương trình:
 Mỗi ngã tư sẽ có 30s đèn xanh
 Các ngã tư còn lại sẽ đèn đỏ  tối đa đèn đỏ của 1 ngã tư là 90s
 Khi đang đèn đỏ còn 3s sẽ chuyển sang đèn vàng
+
+Cách lấy file mô phỏng trong proteus:
+.pio  build  uno  firmware
